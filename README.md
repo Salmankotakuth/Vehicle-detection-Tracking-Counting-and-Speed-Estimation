@@ -7,4 +7,4 @@ Steps for doing this project
 5. run main.py program.
 
 6. Output format will be like this
-![](./Output_samle.jpg)
+![](./Output-samle.jpg)
